@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Ready2Read
 
-Ready2Read is an interactive website helping your child learn to read up to a 5th grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.
+Ready2Read is an interactive website helping your child learn to read up to a 3rd grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.
 
 ## How it Works
 
@@ -20,22 +20,28 @@ Ready2Read is an interactive website helping your child learn to read up to a 5t
 >
 > Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading. 
 
+### Here is an unordered list:
 
+* <a href="#div_id">Reading Level 1</a> 
+*   <a href="#div_id">Reading Level 2</a> 
+*   Item baz
+*   Item zip
 
-###### Header 6
+#### <h3>Reading Level 1</h3><div id="div_id"></div>
 
-| head1        | head two          | three |
+| Examples       | Practice          | READ |
 |:-------------|:------------------|:------|
-| <a href="#div_id">Reading Level 1</a>           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|   A: ā,ă,ӕ        |awe,cat,say | nice  |
+| E:ē,ĕ,ǝ, | he,set,the,  | nice  |
+| I: ī,ĭ           | hi,mit,     | hmm   |
+| O: ō,ŏ,oo           | so,on,too | yumm  |
+|U:  ū,/yu/,ŭ              |true,use,up       |        |
 
-### There's a horizontal rule below this.
+
 
 * * *
 
-### Here is an unordered list:
+### <h3>Reading Level 2</h3><div id="div_id"></div>
 
 * <div id="div_id"></div> Reading Level 1
 *   testing my saves
