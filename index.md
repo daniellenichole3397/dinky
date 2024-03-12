@@ -26,7 +26,7 @@ Ready2Read is an interactive website helping your child learn to read up to a 5t
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| <a href="RL1">Reading Level 1</a>           | good swedish fish | nice  |
+| <a href="#div_id">Reading Level 1</a>           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
@@ -37,8 +37,7 @@ Ready2Read is an interactive website helping your child learn to read up to a 5t
 
 ### Here is an unordered list:
 
-* <a> <form action="/action_page.php">
-  <label for="RL1">Reading Level 1:</label></a>
+* <div id="div_id"></div> Reading Level 1
 *   Item bar
 *   Item baz
 *   Item zip
