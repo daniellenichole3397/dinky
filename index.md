@@ -20,7 +20,7 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 >
 > Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading. 
 
-### Here is an unordered list:
+### Reading Levels:
 
 * <a href="#div_id">Reading Level 1</a>
 *   <a href="#div_id">Reading Level 2</a>
