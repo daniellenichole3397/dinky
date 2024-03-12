@@ -10,50 +10,23 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Ready2Read
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ready2Read is an interactive website helping your child learn to read up to a 5th grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.
 
-## Header 2
+## How it Works
 
-> This is a blockquote following a header.
+> Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading. 
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| <a href="RL1">Reading Level 1</a>           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
@@ -64,7 +37,8 @@ end
 
 ### Here is an unordered list:
 
-*   Item foo
+* <a> <form action="/action_page.php">
+  <label for="RL1">Reading Level 1:</label></a>
 *   Item bar
 *   Item baz
 *   Item zip
