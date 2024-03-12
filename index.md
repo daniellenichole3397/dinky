@@ -41,9 +41,9 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 
 * * *
 
-### Reading Level 2<div id="div_id"></div>
+### <div id="RL2"></div>Reading Level 2
 
-* <div id="RL2"></div> Reading Level 2
+* 
 *   testing my saves
 *   Item baz
 *   Item zip
