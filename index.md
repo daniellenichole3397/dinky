@@ -22,12 +22,12 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 
 ### Here is an unordered list:
 
-* <a href="#div_id">Reading Level 1</a> 
+* <a href="#RL1">Reading Level 1</a> 
 *   <a href="#div_id">Reading Level 2</a> 
 *   Item baz
 *   Item zip
 
-#### <h3>Reading Level 1</h3><div id="div_id"></div>
+#### <h3>Reading Level 1</h3> <div id="RL1"></div>
 
 | Examples       | Practice          | READ |
 |:-------------|:------------------|:------|
