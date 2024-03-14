@@ -21,23 +21,43 @@ layout: default
 
 
 
-<div_id="RL1"></div>
+
 <h2 id="RL1">Reading Level 1</h2>
+<table>
+<tr>
+<th>Examples</th> 
+<th> Practice</th> 
+<th> Story</th>
+</tr>
+<tr> 
+<td>A: ā,ă,ӕ</td>
+<td>awe,cat,say</td>
+<td>story</td>
+</tr>
+<tr>
+<td> E:ē,ĕ,ǝ</td>
+<td>he,set,the</td>
+<td>story</td>
+</tr>
+<tr>
+<td>I: ī,ĭ</td>
+<td>hi,mit</td>
+<td>story</td>
+</tr>
+<tr>
+<td>O: ō,ŏ,oo</td>
+<td>so,on,to</td>
+<td>story</td>
+</tr>
+<tr>
+<td>U:  ū,/yu/,ŭ</td>
+<td>true,use,up</td>
+<td>story</td>
+</tr>
+</table> 
 
-| Examples       | Practice          | READ |
-|:-------------|:------------------|:------|
-|   A: ā,ă,ӕ        |awe,cat,say | nice  |
-| E:ē,ĕ,ǝ, | he,set,the,  | nice  |
-| I: ī,ĭ           | hi,mit,     | hmm   |
-| O: ō,ŏ,oo           | so,on,too | yumm  |
-|U:  ū,/yu/,ŭ              |true,use,up       |        |
 
 
-
-* * *
-
-<!-- Identified H2 tag -->
-<div_id="RL2"></div>
 <h2 id="RL2">Reading Level 2</h2>
 
 
@@ -55,10 +75,12 @@ layout: default
 <tr>
 <td>sh</td>
 <td>she,mash,shin</td>
+<td>story</td>
 </tr>
 <tr>
 <td>ch</td>
 <td>chip,rich,lunch</td>
+<td>story</td>
 </tr>
 </table> 
 
