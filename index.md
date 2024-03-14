@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="background-color:rgb(138,235,164);">
+<body style="background-color:rgb(138,235,164);text-align:center">
 
 # Ready2Read
 
@@ -107,4 +107,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```</p>
+```</body>
