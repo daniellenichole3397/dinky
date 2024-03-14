@@ -16,13 +16,13 @@ layout: default
 
 <h2> Reading Levels:</h2>
 <br>
-<a href="#div_id">Reading Level 1</a></br>
- <br><a href="#RL2" title="Reading Level 2">Reading Level 2 </a></br>
+<a href="#RL1" title="Reading Level 1">Reading Level 1 </a>
+ <br><a href="#RL2" title="Reading Level 2">Reading Level 2 </a>
 
 
 
-<div id="div_id"></div>
-### Reading Level 1
+<div_id="RL1"></div>
+<h2 id="RL1">Reading Level 1</h2>
 
 | Examples       | Practice          | READ |
 |:-------------|:------------------|:------|
@@ -39,13 +39,26 @@ layout: default
 <!-- Identified H2 tag -->
 <div_id="RL2"></div>
 <h2 id="RL2">Reading Level 2</h2>
-### Reading Level 2
 
- <table style = "width:100%>
+
+ <table>
 <tr>
 <th>Examples</th> 
 <th> Practice</th> 
 <th> Story</th>
+</tr>
+<tr> 
+<td>th</td>
+<td>that,the,math</td>
+<td>story</td>
+</tr>
+<tr>
+<td>sh</td>
+<td>she,mash,shin</td>
+</tr>
+<tr>
+<td>ch</td>
+<td>chip,rich,lunch</td>
 </tr>
 </table> 
 
