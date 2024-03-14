@@ -4,24 +4,21 @@ layout: default
 
 <body style="background-color:rgb(138,235,164);text-align:center">
 
-# Ready2Read
+<h1>Ready2Read</h1>
 
-Ready2Read is an interactive website helping your child learn to read up to a 3rd grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.
+<p>Ready2Read is an interactive website helping your child learn to read up to a 3rd grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.</P>
 
-## How it Works
+<h2>How it Works</h2>
 
-> Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!
->
-> Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading. 
+<p>Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!</p>
 
-### Reading Levels:
+ <p>Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading.</p> 
 
-* <a href="#div_id">Reading Level 1</a>
-*   <a 
-2
-<a href="#RL2" title="Reading Level 2">Reading Level 2 </a>
-*   Item baz
-*   Item zip
+<h2> Reading Levels:</h2>
+<br>
+<a href="#div_id">Reading Level 1</a></br>
+ <br><a href="#RL2" title="Reading Level 2">Reading Level 2 </a></br>
+
 
 
 <div id="div_id"></div>
@@ -44,9 +41,9 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 <h2 id="RL2">Reading Level 2</h2>
 ### Reading Level 2
 
-* <table style = "width:100%>
+ <table style = "width:100%>
 <tr>
-<th>Examples<th> 
+<th>Examples</th> 
 <th> Practice</th> 
 <th> Story</th>
 </tr>
