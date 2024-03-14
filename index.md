@@ -12,7 +12,7 @@ layout: default
 
 <p>Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!</p>
 
- <p>Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading.</p> 
+ <p>Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading.</p>  
 
 <h2> Reading Levels:</h2>
 <br>
