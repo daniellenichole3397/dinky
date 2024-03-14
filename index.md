@@ -2,13 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<p style="background-color:rgb(138,235,164);">
 
 # Ready2Read
 
@@ -25,7 +19,7 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 * <a href="#div_id">Reading Level 1</a>
 *   <a 
 2
-<a href="#RL2" title="Reading Level 2">Real World Applications</a>
+<a href="#RL2" title="Reading Level 2">Reading Level 2 </a>
 *   Item baz
 *   Item zip
 
@@ -50,7 +44,14 @@ Ready2Read is an interactive website helping your child learn to read up to a 3r
 <h2 id="RL2">Reading Level 2</h2>
 ### Reading Level 2
 
-* <table style = "width: >
+* <table style = "width:100%>
+<tr>
+<th>Examples<th> 
+<th> Practice</th> 
+<th> Story</th>
+</tr>
+</table> 
+
 *   testing my saves
 *   Item baz
 *   Item zip
@@ -106,4 +107,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+```</p>
