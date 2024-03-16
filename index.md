@@ -68,8 +68,8 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 
 
-<h2 id="#Jax">My Dog Jax</h2>
-<img src="jax1.jpeg" alt="Jax">
+<h2 id="Jax">My Dog Jax</h2>
+<img src="https://postimg.cc/jLDFfGF2" alt="Jax">
 
  
 ```</body>
