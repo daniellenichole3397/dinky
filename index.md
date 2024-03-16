@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<body style="background-color:rgb(138,235,164);text-align:center">
+<body style="background-color:rgb(205,137,214);text-align:center">
 
 <h1>Danielle Adams</h1>
 <h2> Background </h2>
@@ -69,7 +69,14 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 
 <h2 id="Jax">My Dog Jax</h2>
-<img src="https://postimg.cc/jLDFfGF2" alt="Jax">
+<p> He is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. </p>
+<a href="https://postimg.cc/jLDFfGF2">Jax
+<img src="https://postimg.cc/jLDFfGF2" alt="Jax"> 
+<img src="C:\users\Danielle Adams\downloads\jax1.png"/>
+[jax1]images/jax1.jpg
+<img>[jax1]images/jax1</img>
+<img>[jax1]images/jax1.jpg</img>
+
 
  
 ```</body>
