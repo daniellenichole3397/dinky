@@ -4,87 +4,72 @@ layout: default
 
 <body style="background-color:rgb(138,235,164);text-align:center">
 
-<h1>Ready2Read</h1>
+<h1>Danielle Adams</h1>
+<h2> Background </h2>
 
-<p>Ready2Read is an interactive website helping your child learn to read up to a 3rd grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.</P>
+<p>I was born and raised in Monatana. I grew up doing all the typical small town activities of hunting, riding, and fishing. My home town is made up of about 500 wonderful people who know how to work hard and play hard. Every year I go back for my home town's rodeo.
+</P>
+<p> I enjoyed school and did well. My favorite subject was art. My father taught the art program at the school and so I had access to all the supplies I ever wanted. </p>
 
-<h2>How it Works Checking 2</h2>
+<h2>Where I am Now</h2>
 
-<p>Come on and work!!! Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!</p>
+<p>Though I never enjoy sports growing up, I stay pretty consistent going to the gym. It has become my happy place and my friends tend to argue that it is my personality. 
+I have slowly started becoming a fan of anime and have created my own anime inspired gym outfits. 
+    <br>I still like to produce art when I have time.</br> 
+    <br> I am obsessed with my dog and have been teaching him tricks such as to close doors, shed hunt, and whisper. </br>
+    <br> Most of my time, however, is split between school, work, and homework.<br></p>
 
- <p>Ready2Read recognizes words being read and converts it into imagery for you child. The goal is to not only learn to read, but to understand and enjoy reading.</p>  
+ <h2> Hobby Links</h2> 
 
-<h2> Reading Levels:</h2>
+
 <br>
-<a href="#RL1" title="Reading Level 1">Reading Level 1 </a>
- <br><a href="#RL2" title="Reading Level 2">Reading Level 2 </a>
+<a href="#Workouts" title="Week of Workouts">Week of Workouts </a>
+ <br><a href="#Jax" title="My Dog Jax">My Dog Jax </a>
 
 
 
 
-<h2 id="RL1">Reading Level 1</h2>
+<h2 id="Workouts">Week of Workouts</h2>
 <table>
 <tr>
-<th>Examples</th> 
-<th> Practice</th> 
-<th> Story</th>
+<th>Day</th> 
+<th> Targeted Muscles</th> 
+<th> Workout</th>
 </tr>
 <tr> 
-<td>A: ā,ă,ӕ</td>
-<td>awe,cat,say</td>
-<td>story</td>
+<td>Sunday</td>
+<td>Glutes and Hamstring</td>
+<td>3x8 Hip thrust into KAS into Hold, 4x12-15 Kickback, 3x6-8 RDLs, 4x10 Extensions,4x10-12 Hamstring Curls</td>
 </tr>
 <tr>
-<td> E:ē,ĕ,ǝ</td>
-<td>he,set,the</td>
-<td>story</td>
+<td> Tuesday</td>
+<td>Chest/Tri</td>
+<td>3x6-10 Flatbench, 3x10-12 Tricep Cable Extensions 3x10-12 RG Tricep Cable Extensions, 3x8-10 Incline DB Press, 3x10 Incline Hexnode Press, 3x10-15 Cable flies-High, Med, and Low</td>
 </tr>
 <tr>
-<td>I: ī,ĭ</td>
-<td>hi,mit</td>
-<td>story</td>
+<td>Wednesday</td>
+<td>Quads/Calves</td>
+<td>4x8-12 Goblet Squat into pulses, 3 Up and back lunges with pulses, 5x8-10 Quad Extensions, 4x10-12 Calf Extensions, 3 Up and back sled pull/push</td>
 </tr>
 <tr>
-<td>O: ō,ŏ,oo</td>
-<td>so,on,to</td>
-<td>story</td>
+<td>Thursday</td>
+<td>Shoulders</td>
+<td>3x10 Cable Flies, 3x8-12 Shoulder Press, 3x8-12 Upright Rows, 3 TF Rear delt flies, 3x10-12 Front Delt Raises 3x10 Lateral Raises into TF DS</td>
 </tr>
 <tr>
-<td>U:  ū,/yu/,ŭ</td>
-<td>true,use,up</td>
-<td>story</td>
-</tr>
+<td>Friday</td>
+<td>Back/Bi</td>
+<td>3,2,1 Pull Ups, 3x10-12 Bent over Rows, 3x8-10 Vbar Grip Rows, 3x10-12 Lat pull Down, 3x10 Cable curls, 3x10-12 Preacher Curls, 3x10-15 Hammer Curls 3x10-15 DB curls DS SS Hammer and DB Curls</td>
+</tr> 
+<td> Saturday</td>
+<td>Rest</td>
+<td>Stretch</td>
 </table> 
 
 
 
-<h2 id="RL2">Reading Level 2</h2>
+<h2 id="#Jax">My Dog Jax</h2>
+<img src="jax1.jpeg" alt="Jax">
 
-
- <table>
-<tr>
-<th>Examples</th> 
-<th> Practice</th> 
-<th> Story</th>
-</tr>
-<tr> 
-<td>th</td>
-<td>that,the,math</td>
-<td>story</td>
-</tr>
-<tr>
-<td>sh</td>
-<td>she,mash,shin</td>
-<td>story</td>
-</tr>
-<tr>
-<td>ch</td>
-<td>chip,rich,lunch</td>
-<td>story</td>
-</tr>
-</table> 
-
-<br>A fat cat sat on a mat. Pam pats the fat cat's paw. Glad cat!
-<br>Jen and Zee are hens. The hens rest in a pen. He gets eggs from hens. She gets eggs from hens. Best hens!
-<br> Hi, Tim. Tim sits in his pit. Tim digs in his pit. 
+ 
 ```</body>
