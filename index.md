@@ -8,7 +8,7 @@ layout: default
 
 <p>Ready2Read is an interactive website helping your child learn to read up to a 3rd grade level. Practice pronunciation of vowels, consonant blends, and more. Ready2Read encourages imagination and reading in one exciting experience for your child.</P>
 
-<h2>How it Works</h2>
+<h2>How it Works Checking</h2>
 
 <p>Select your childs' reading level. Then select which subject your child would like the most practice on. Be sure your microphone is turned on. Begin reading the stories out loud and watch as the stories come to life!</p>
 
