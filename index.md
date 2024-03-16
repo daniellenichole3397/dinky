@@ -70,13 +70,14 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 <h2 id="Jax">My Dog Jax</h2>
 <p> He is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. </p>
-<a href="https://postimg.cc/jLDFfGF2">Jax
+<a href="https://postimg.cc/jLDFfGF2">Jax</a href>
 <img src="https://postimg.cc/jLDFfGF2" alt="Jax"> 
 <img src="C:\users\Danielle Adams\downloads\jax1.png"/>
 [jax1]images/jax1.jpg
-<img>[jax1]images/jax1</img>
+
+<br><img>[jax1]images/jax1</img></br>
 <img>[jax1]images/jax1.jpg</img>
 
 
  
-```</body>
+
