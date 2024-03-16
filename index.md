@@ -15,9 +15,9 @@ layout: default
 
 <p>Though I never enjoy sports growing up, I stay pretty consistent going to the gym. It has become my happy place and my friends tend to argue that it is my personality. 
 I have slowly started becoming a fan of anime and have created my own anime inspired gym outfits. 
-    <br>I still like to produce art when I have time.</br> 
-    <br> I am obsessed with my dog and have been teaching him tricks such as to close doors, shed hunt, and whisper. </br>
-    <br> Most of my time, however, is split between school, work, and homework.<br></p>
+    <br>I still like to produce art when I have time.
+    <br> I am obsessed with my dog and have been teaching him tricks such as to close doors, shed hunt, and whisper. 
+    <br> Most of my time, however, is split between school, work, and homework.</p>
 
  <h2> Hobby Links</h2> 
 
@@ -70,7 +70,7 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 <h2 id="Jax">My Dog Jax</h2>
 <p> He is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. </p>
-<a href="https://postimg.cc/jLDFfGF2">Jax</a href>
+<a href="https://postimg.cc/jLDFfGF2">Jax</a>
 <img src="https://postimg.cc/jLDFfGF2" alt="Jax"> 
 <img src="C:\users\Danielle Adams\downloads\jax1.png"/>
 [jax1]images/jax1.jpg
