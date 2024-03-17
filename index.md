@@ -74,7 +74,7 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 <body>
 <img src="/csimages/Screenshot 2024-03-15 213935.png" height="200" alt= "Picture of Jax" title="The Goodest Boy">
 <br> 
-<img src="/csimages/jax1 (1).jpg"" alt="Goodest boy">
+<img src="/csimages/jax1 (1).jpg" alt="Goodest boy">
 </body>
 
 
@@ -84,4 +84,4 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 
 
-[def]: csimages/Screenshot 2024-03-15 213935.pn
+[def]: csimages/Screenshot 2024-03-15 213935.png
