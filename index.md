@@ -72,7 +72,10 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 <p> Jax is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. He is a ball of fur, energy, and anxiety. He loves his "bling" (i.e. bandanas, collars, etc.) and gets very insecure if we take them off. He is very spoiled.  </p> 
 <a href="https://postimg.cc/jLDFfGF2">Jax</a>
 <img src="https://postimg.cc/jLDFfGF2" alt="Jax"> 
-<img src="C:\Users\Danielle Adams\Downloads\jax1"/>
+<img src="C:\Users\Danielle Adams\Downloads\jax1"/> 
+<img src="/csimages/screenshot2024-03-15213935.png" height="200" alt= "Picture of Jax" title = "The Goodest Boy"> 
+<img src="/csimages/Screenshot 2024-03-15 213935.png" height="200" alt= "Picture of Jax" title="The Goodest Boy">
+<br> alright this should work
 
 
 
