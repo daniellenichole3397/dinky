@@ -79,4 +79,4 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 </body>
 <p> 
 <a href='https://postimg.cc/DWK5FwJZ' target='_blank'><img src='https://i.postimg.cc/DWK5FwJZ/jax1-1.jpg' border='0' alt='jax1-1'/></a>
-<p>no longer a mile long link for image</p>
+<p>no longer a mile long link for image</p> 
