@@ -1,10 +1,9 @@
----
-layout: default
 
 
-<body style="background-color:rgb(205,137,214);text-align:center">
 
-<h1>Danielle Adams</h1>
+<body style="background-color:rgb(230, 230, 250);text-align:center">
+
+<h1 style="color:rgb(103, 49, 71);" style="font-family:pacifo;">Danielle Adams</h1>
 <h2> Background </h2>
 
 <p>I was born and raised in Monatana. I grew up doing all the typical small town activities of hunting, riding, and fishing. My home town is made up of about 500 wonderful people who know how to work hard and play hard. Every year I go back for my home town's rodeo.
@@ -21,18 +20,18 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
  <h2> Hobby Links</h2> 
 
-
+<p style="color:rgb(103, 49, 71);">
 <br>
 <a href="#Workouts" title="Week of Workouts">Week of Workouts </a>
  <br><a href="#Jax" title="My Dog Jax">My Dog Jax </a>
- <br><a href="#Art" title="Art Projects">Art Project </a>
+ <br><a href="#Art" title="Art Projects">Art Project </a> </p>
 
 
 
 
 <h2 id="Workouts">Week of Workouts</h2>
 <table>
-<tr>
+<tr style="color:rgb(103, 49, 71);">
 <th>Day</th> 
 <th> Targeted Muscles</th> 
 <th> Workout</th>
@@ -74,9 +73,9 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 <a href='https://postimg.cc/DWK5FwJZ' target='_blank'><img src='https://i.postimg.cc/DWK5FwJZ/jax1-1.jpg' border='0' alt='jax1-1'/></a>
 <p>  Jax loves his "bling" (i.e. bandanas, collars, etc.) and gets very insecure if we take them off. So here he is dressed up as Captain Jax Sparrow.  
-<a href='https://postimg.cc/dkVKmyPk' target='_blank'><img src='https://i.postimg.cc/dkVKmyPk/IMG-8177.avif' border='0' alt='IMG-8177'/></a>
+<br><a href='https://postimg.cc/dkVKmyPk' target='_blank'><img src='https://i.postimg.cc/dkVKmyPk/IMG-8177.avif' border='0' alt='IMG-8177'/></a>
 <h2 id="Art">Art Projects</h2>
 <p> Like I said, growing up I had a passion for art and had an amazing mentor; my dad. Unfortunately, I have less time for it, but I still get to enjoy an art project every now and then. 
-<a href='https://postimg.cc/BPZtF6NM' target='_blank'><img src='https://i.postimg.cc/BPZtF6NM/IMG-0271.jpg' border='0' alt='IMG-0271'/></a>
+<br><a href='https://postimg.cc/BPZtF6NM' target='_blank'><img src='https://i.postimg.cc/BPZtF6NM/IMG-0271.jpg' border='0' alt='IMG-0271'/></a>
 <a href='https://postimg.cc/nCLQjj95' target='_blank'><img src='https://i.postimg.cc/nCLQjj95/IMG-0048.jpg' border='0' alt='IMG-0048'/></a>
 <a href='https://postimg.cc/Vd1W7BZV' target='_blank'><img src='https://i.postimg.cc/Vd1W7BZV/IMG-0279.avif' border='0' alt='IMG-0279'/></a>
