@@ -25,6 +25,7 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 <br>
 <a href="#Workouts" title="Week of Workouts">Week of Workouts </a>
  <br><a href="#Jax" title="My Dog Jax">My Dog Jax </a>
+ <br><a href="#Art" title="Art Projects">Art Project </a>
 
 
 
@@ -66,17 +67,16 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 <td>Stretch</td>
 </table> 
 
-
+ 
 
 <h2 id="Jax">My Dog Jax</h2>
-<p> Jax is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. He is a ball of fur, energy, and anxiety. He loves his "bling" (i.e. bandanas, collars, etc.) and gets very insecure if we take them off. He is very spoiled.  </p> 
-<a href="https://postimg.cc/jLDFfGF2">Jax</a>
-<body>
-<img src="/csimages/Screenshot 2024-03-15 213935.png" height="200" alt= "Picture of Jax" title="The Goodest Boy">
-<br> 
-<img src="/csimages/jax1 (1).jpg" alt="Goodest boy">
-<img src="/csimages/jax1 (1).jpg" height = "200" alt="My Dog" title="Fall Jax">
-</body>
-<p> 
+<p> Jax is an oversized German Shepherd and Belgian Malinois Mix. He is high energy, but will do anything for attention or treats. He is a ball of fur, energy, and anxiety..  </p> 
+
 <a href='https://postimg.cc/DWK5FwJZ' target='_blank'><img src='https://i.postimg.cc/DWK5FwJZ/jax1-1.jpg' border='0' alt='jax1-1'/></a>
-<p>no longer a mile long link for image</p> 
+<p>  Jax loves his "bling" (i.e. bandanas, collars, etc.) and gets very insecure if we take them off. So here he is dressed up as Captain Jax Sparrow.  
+<a href='https://postimg.cc/dkVKmyPk' target='_blank'><img src='https://i.postimg.cc/dkVKmyPk/IMG-8177.avif' border='0' alt='IMG-8177'/></a>
+<h2 id="Art">Art Projects</h2>
+<p> Like I said, growing up I had a passion for art and had an amazing mentor; my dad. Unfortunately, I have less time for it, but I still get to enjoy an art project every now and then. 
+<a href='https://postimg.cc/BPZtF6NM' target='_blank'><img src='https://i.postimg.cc/BPZtF6NM/IMG-0271.jpg' border='0' alt='IMG-0271'/></a>
+<a href='https://postimg.cc/nCLQjj95' target='_blank'><img src='https://i.postimg.cc/nCLQjj95/IMG-0048.jpg' border='0' alt='IMG-0048'/></a>
+<a href='https://postimg.cc/Vd1W7BZV' target='_blank'><img src='https://i.postimg.cc/Vd1W7BZV/IMG-0279.avif' border='0' alt='IMG-0279'/></a>
