@@ -1,6 +1,7 @@
 ---
 layout: default
----
+<!DOCTYPE html>
+<html>
 
 <body style="background-color:rgb(205,137,214);text-align:center">
 
@@ -75,6 +76,7 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 <img src="/csimages/Screenshot 2024-03-15 213935.png" height="200" alt= "Picture of Jax" title="The Goodest Boy">
 <br> 
 <img src="/csimages/jax1 (1).jpg" alt="Goodest boy">
+<img src="/csimages/jax1 (1).jpg" height = "200" alt="My Dog" title="Fall Jax">
 </body>
 
 
@@ -84,4 +86,5 @@ I have slowly started becoming a fan of anime and have created my own anime insp
 
 
 
-[def]: csimages/Screenshot 2024-03-15 213935.png
+[def]: csimages/Screenshot 2024-03-15 213935.png 
+</html>
